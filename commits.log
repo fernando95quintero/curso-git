@@ -1,0 +1,98 @@
+commit 51e4e5a95a68cb5de8963b9248059dbef7031f4e
+Author: Fernando Quintero <fernando20quintero@gmail.com>
+Date:   Fri Jan 26 13:59:04 2024 -0500
+
+    Agregando 2 párrafos
+
+commit a9fffeb9f466673e68280ec7fb7fccf3246eb0d2
+Merge: 54950b8 1f85a62
+Author: Fernando Quintero <fernando20quintero@gmail.com>
+Date:   Fri Jan 26 13:56:13 2024 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 54950b821c44c62f162024e9e3d42403b76153f5
+Author: Fernando Quintero <fernando20quintero@gmail.com>
+Date:   Fri Jan 26 13:32:50 2024 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 1f85a62ba01fb13339b7ec81b5a3ec5d350158b4
+Author: Fernando Quintero <fernando20quintero@gmail.com>
+Date:   Fri Jan 26 13:32:50 2024 -0500
+
+    Agregando las estaciones del año
+
+commit 2481995ba44d5d385808dffb2f41aaebd51e2183
+Merge: 5460f52 bc8c7cd
+Author: Fernando Quintero <fernando20quintero@gmail.com>
+Date:   Fri Jan 26 13:25:14 2024 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit bc8c7cdb30b42c8aa52c8320e88217358f57c4fc
+Author: Fernando Quintero <fernando20quintero@gmail.com>
+Date:   Fri Jan 26 13:14:29 2024 -0500
+
+    Agregando index.js al index.html
+
+commit 5460f5211a956d594ef3020ff3d2632668a0463f
+Author: Fernando Quintero <fernando20quintero@gmail.com>
+Date:   Fri Jan 26 13:11:16 2024 -0500
+
+    Agregando style.css al index.html
+
+commit f2058744e66262a846bb5cb0c10dd8f549d3bf94
+Merge: 1582bb8 e8985e7
+Author: Fernando Quintero <fernando20quintero@gmail.com>
+Date:   Fri Jan 26 12:58:51 2024 -0500
+
+    Merge branch 'js'
+
+commit e8985e70b13a167af076c0b7c15ad85b789c6139
+Author: Fernando Quintero <fernando20quintero@gmail.com>
+Date:   Fri Jan 26 12:42:29 2024 -0500
+
+    Creando index.js
+
+commit 1582bb86a0d8ca83bfca4192de9559a2b55eb68b
+Author: Fernando Quintero <fernando20quintero@gmail.com>
+Date:   Fri Jan 26 12:35:46 2024 -0500
+
+    Creando style.css
+
+commit 445d55c5ab9ceef3df9ae40724f0762e9712ae72
+Author: Fernando Quintero <fernando20quintero@gmail.com>
+Date:   Fri Jan 26 12:29:23 2024 -0500
+
+    Creando index.html
+
+commit b5b83756265c8902d3c687e64955a6b5edae3445
+Author: Fernando Quintero <fernando20quintero@gmail.com>
+Date:   Fri Jan 26 12:00:36 2024 -0500
+
+    Ignorando archivos .exe
+
+commit 3feeb97b835c5f85d5544c27c054b735df34ba84
+Author: Fernando Quintero <146927198+fernando95quintero@users.noreply.github.com>
+Date:   Thu Jan 25 21:10:01 2024 -0500
+
+    Creando licencia del repositorio
+
+commit 273345851fb57580cfe747d8c9d84cf238aa1aee
+Author: Fernando Quintero <fernando20quintero@gmail.com>
+Date:   Thu Jan 25 20:52:21 2024 -0500
+
+    Agregando más contenido al README
+
+commit 9b5884627d73fe11831acffc6b3c19dee53d4345
+Author: Fernando Quintero <fernando20quintero@gmail.com>
+Date:   Thu Jan 25 20:30:50 2024 -0500
+
+    Agregando contenido inicial al README
+
+commit 092637e029582d5b0683e2340faa233ca0b42116
+Author: Fernando Quintero <fernando20quintero@gmail.com>
+Date:   Thu Jan 25 20:21:00 2024 -0500
+
+    Primer commit 🙂
