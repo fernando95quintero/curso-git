@@ -1,4 +1,20 @@
 html {
   background-color: #000;
   color: #fff;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+a {
+  color: orange;
+  text-decoration: none;
+}
+
+a:hover {
+  color: orangered;
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
 }
